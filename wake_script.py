@@ -20,7 +20,10 @@ SPACES = [
     "https://huggingface.co/spaces/rofik1985/JetaDibarDila",
     "https://huggingface.co/spaces/rofik1985/DilaDukan",
     "https://huggingface.co/spaces/rofik1985/KailaKunta",
-    "https://huggingface.co/spaces/rofik1985/BulisNaKunta"
+    "https://huggingface.co/spaces/rofik1985/BulisNaKunta",
+    "https://huggingface.co/spaces/tahersiddik71/KuntaDelaBe",
+"https://huggingface.co/spaces/tahersiddik71/ArKoisNa",
+"https://huggingface.co/spaces/tahersiddik71/ArKoiteNi"
 ]
 
 async def process_space(page, url):
